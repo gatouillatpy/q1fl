@@ -1,0 +1,6 @@
+*.swc
+*.EXE
+*.DLL
+*.LIB
+quakeswf/Release/
+quakeswf/ReleaseGL/
